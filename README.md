@@ -75,3 +75,20 @@ make
 
 # 4. Run
 ./RacingGame
+```
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.jpg" alt="Gameplay Screenshot 1" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot2.jpg" alt="Gameplay Screenshot 2" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot3.jpg" alt="Gameplay Screenshot 3" width="80%"/>
+</p>
